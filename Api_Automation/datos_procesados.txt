@@ -1,0 +1,12 @@
+--- Informe de Datos Procesados ---
+        
+        Fecha de Ejecucion: 2025-11-10 17:24:30
+        API Consumida: https://jsonplaceholder.typicode.com/posts/1
+        
+        Detalles del Post (ID: 1):
+        ------------------------------------
+        Titulo: SUNT AUT FACERE REPELLAT PROVIDENT OCCAECATI EXCEPTURI OPTIO REPREHENDERIT
+        Longitud del Cuerpo: 158 caracteres
+        Primeras 50 palabras del Cuerpo: quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto...
+
+        ------------------------------------
